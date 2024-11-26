@@ -1,11 +1,11 @@
 ## hey guys im aidyn
 
-i like computers and i enjoy programming so i decided to attempt to make it my carrer
+i like computers and i enjoy programming so i decided to attempt to make it my carrer.
 trying to learn a bunch of stuff to become a software engineer for a major tech company, or really any tech company but working for google or meta would be awesome
-i manage my own servers and do random stuff with them, like manage my photos and host game servers for my friends
-other than computers, i love photography, food, and the people i hold close to me
-i'm currently working on my project named 'rainfall', it's really just a google photos clone but its still amazeballs cause it syncs from multiple devices for free!!! and i can add as much storage to my own servers as i want!!! without having to pay per month!! yay!!
-if you wanna reach me you can go to my website, www.aqualmao.win
+- i manage my own servers and do random stuff with them, like manage my photos and host game servers for my friends
+- other than computers, i love photography, food, and the people i hold close to me
+- i'm currently working on my project named 'rainfall', it's really just a google photos clone but its still amazeballs cause it syncs from multiple devices for free!!! and i can add as much storage to my own servers as i want!!! without having to pay per month!! yay!!
+- if you wanna reach me you can go to my website, www.aqualmao.win
 thank you
 <!--
 **aqualmao/aqualmao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
